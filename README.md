@@ -18,3 +18,8 @@
 ```
 SID  данном случае совпадает с SID Пользователем-Источником
 
+
+## License
+
+This project is licensed under the [MIT License](./LICENSE) © 2025 Diatlov Mikhail
+
