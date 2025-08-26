@@ -1,7 +1,7 @@
  # Задаем группы и соответствующие пути к скриптам для каждой группы
 $groupScriptMap = @{
-    "First Group" = "\\path\to_first_group\first_script.ps1"
-    "Second Group" = "\\path\to_second_group\second_script.ps1"
+    "First Group" = "\\path\first_script.ps1"
+    "Second Group" = "\\path\second_script.ps1"
 }
 
 # Получаем информацию о текущем пользователе

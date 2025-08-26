@@ -1,5 +1,5 @@
  # Указываем путь к файлу реестра (исходный шаблон .reg файл)
-$regFileSource = "\\path_to_reg\file.reg"
+$regFileSource = "\\path\first_file.reg"
 
 # Определяем временную папку текущего пользователя
 $tempFolder = [System.IO.Path]::GetTempPath()
