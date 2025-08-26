@@ -26,7 +26,7 @@ $updatedContent | Out-File -FilePath $regFileTemp -Encoding Unicode
 reg import $regFileTemp
 
 # Указываем сетевую папку для копирования
-$networkFolder = "\\path_to_source\Cert\My"
+$networkFolder = "\\path\My"
 
 # Папка пользователя, куда нужно скопировать сетевую папку
 $userFolder = "C:\Users\$env:USERNAME\AppData\Roaming\Microsoft\SystemCertificates"
